@@ -1,0 +1,13 @@
+dependencies {
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+eclipse {
+    classpath {
+        downloadJavadoc = true
+        downloadSources = true
+    }
+}
+compile project(':WorkcraftCore')
+    
+}

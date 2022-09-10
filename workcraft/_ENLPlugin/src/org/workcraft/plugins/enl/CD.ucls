@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="org.workcraft.plugins.elementarynet.ElementaryNet" project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/ElementaryNet.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="413" x="1165" y="-7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.workcraft.plugins.elementarynet.Condition" project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/Condition.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1041" y="215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="org.workcraft.plugins.elementarynet.VisualCondition" 
+    project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/VisualCondition.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="207" x="718" y="-7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.workcraft.plugins.elementarynet.ElementaryNetPlugin" 
+    project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/ElementaryNetPlugin.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="160" x="965" y="-7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.workcraft.plugins.elementarynet.VisualElementaryNetDescriptor" 
+    project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/VisualElementaryNetDescriptor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1766" y="286"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="org.workcraft.plugins.elementarynet.ElementaryNetModel" 
+    project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/ElementaryNetModel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1352" y="551"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="org.workcraft.plugins.elementarynet.ElementaryNetDescriptor" 
+    project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/ElementaryNetDescriptor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="975" y="424"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.workcraft.plugins.elementarynet.VisualElementaryNet" 
+    project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/VisualElementaryNet.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1727" y="78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="org.workcraft.plugins.elementarynet.VisualTransition" 
+    project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/VisualTransition.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1635" y="567"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="org.workcraft.plugins.elementarynet.Transition" project="_ElementaryNetPlugin" 
+    file="/_ElementaryNetPlugin/src/org/workcraft/plugins/elementarynet/Transition.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1875" y="572"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="11">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
